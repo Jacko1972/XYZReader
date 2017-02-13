@@ -106,6 +106,6 @@
         app:fabSize="mini"
         app:srcCompat="@drawable/ic_action_share"
         app:pressedTranslationZ="@dimen/fab_press_translation_z"
-        app:layout_behavior=".ui.CoordinatorScrollListener"/>
+        app:layout_behavior="com.example.xyzreader.ui.CoordinatorScrollListener"/>
 
 </android.support.design.widget.CoordinatorLayout>
