@@ -17,7 +17,6 @@
     <dimen name="tool_bar_height">112dp</dimen>
 
     <dimen name="list_margin">8dp</dimen>
-
     <integer name="list_column_count">2</integer>
 
 </resources>
