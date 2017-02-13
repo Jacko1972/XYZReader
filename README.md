@@ -39,8 +39,8 @@ Through this project, you will:
 
 ## Screens
 
-![screen](../master/app/screenshots/phone1.jpg)
-![screen](../master/app/screenshots/phone2.jpg)
+![screen](../master/XYZReader/screenshots/phone1.jpg)
+![screen](../master/XYZReader/screenshots/phone2.jpg)
 
-![screen](../master/app/screenshots/tablet1.jpg)
-![screen](../master/app/screenshots/tablet2.jpg)
+![screen](../master/XYZReader/screenshots/tablet1.jpg)
+![screen](../master/XYZReader/screenshots/tablet2.jpg)
