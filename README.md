@@ -36,3 +36,11 @@ Through this project, you will:
 * 	App uses images that are high quality, specific, and full bleed.
 * 	App uses fonts that are either the Android defaults, are complementary, and aren't otherwise distracting.
 * 	App conforms to common standards found in the Android Nanodegree General Project Guidelines
+
+## Screens
+
+![screen](../master/app/screenshots/phone1.jpg)
+![screen](../master/app/screenshots/phone2.jpg)
+
+![screen](../master/app/screenshots/tablet1.jpg)
+![screen](../master/app/screenshots/tablet2.jpg)
