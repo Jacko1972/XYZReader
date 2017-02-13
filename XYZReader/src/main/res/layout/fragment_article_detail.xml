@@ -82,8 +82,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
-        app:fabSize="mini"
         app:srcCompat="@drawable/ic_action_share"
+        app:fabSize="mini"
         app:elevation="@dimen/fab_elevation"
         app:pressedTranslationZ="@dimen/fab_press_translation_z"
         app:layout_behavior="com.example.xyzreader.ui.CoordinatorScrollListener"/>
